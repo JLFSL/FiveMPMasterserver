@@ -1,0 +1,16 @@
+{
+  "name": "five-mutliplayer-api",
+  "version": "1.0.0",
+  "description": "API for the Grand Theft Auto V multiplayer modification Five Multiplayer.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Just-Stay-Alive/Five-Multiplayer-API.git"
+  },
+  "author": "JustStayAlive",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Just-Stay-Alive/Five-Multiplayer-API/issues"
+  },
+  "homepage": "https://github.com/Just-Stay-Alive/Five-Multiplayer-API#readme"
+}
