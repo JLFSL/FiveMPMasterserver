@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/Just-Stay-Alive/Five-Multiplayer-API/issues"
   },
-  "homepage": "https://github.com/Just-Stay-Alive/Five-Multiplayer-API#readme"
+  "homepage": "https://github.com/Just-Stay-Alive/Five-Multiplayer-API#readme",
+  "scripts": {
+    "preinstall": "node bin/preinstall",
+  }
 }
