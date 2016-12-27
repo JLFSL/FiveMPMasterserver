@@ -2,7 +2,8 @@ var logger = require('./lib/logger'),
     manager = require('./lib');
 
 manager.on('fail', function(err, module) {
-  logger.log('warn', 'Failed to Load Module %s. %s', module, err);
+  logger.log('warn', 'Failed to Load Module %s.', module);
+  console.log(err);
 });
 
 manager.on('load', function(module) {
