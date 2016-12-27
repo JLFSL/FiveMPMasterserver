@@ -13,6 +13,7 @@
   },
   "homepage": "https://github.com/Just-Stay-Alive/Five-Multiplayer-API#readme",
   "dependencies": {
+    "mysql": "^2.12.0",
     "striptags": "^2.1.1"
   }
 }
